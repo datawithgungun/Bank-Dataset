@@ -1,4 +1,4 @@
-# Bank-Dataset-by-using-SQL
+# Bank-Dataset
 
 # 🏦 Bank Database Analysis using SQL
 
